@@ -7,3 +7,7 @@ THE BENEFITS OF LEARNING
 
 
 RIDING CHART>  PICTURE! 
+
+
+
+We all learn diffferently???
