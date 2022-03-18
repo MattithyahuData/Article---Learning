@@ -1,6 +1,14 @@
-### Learning
+## **Learning and Development in Data Science**
+### How does one get better?... Learning. 
 
-## How to learn 
+#### *Mistakes are inevitable * is a straightforward question, but the answers can often be over complicated. 
+
+<img src="images/books.jpg"/>
+
+<br>
+<br>
+
+Learning means different things to different people, to some it means practising and doing, to others studying, and some observing and watching. To each his own... 
 
 WHY WE MUST CONTINUE LEARNING
 THE BENEFITS OF LEARNING 
@@ -12,15 +20,6 @@ RIDING CHART>  PICTURE!
 
 We all learn diffferently???
 
-## **What is Data Science**
-### How does it affect our daily lives? 
-
-#### *"What is Data Science?"* is a straightforward question, but the answers can often be over complicated. 
-
-<img src="images/data1.jpg"/>
-
-<br>
-<br>
 
 Firstly, *what is data?*. A good way to understand something is to look at the origin, when did 'data' come into existence? 
 Data is essentially the information of things, from your name and height, to remembering a person’s birthday.  
