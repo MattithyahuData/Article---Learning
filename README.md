@@ -1,4 +1,4 @@
-## **Learning and Development**
+## **Learning**
 ### How does one get better?... Learning. 
 
 #### *"Failure and mistakes are inevitable - accept it, embrace it, and learn through it." - Mattithyahu* 
