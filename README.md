@@ -1,34 +1,54 @@
 ## **Learning and Development in Data Science**
 ### How does one get better?... Learning. 
 
-#### *Mistakes are inevitable * is a straightforward question, but the answers can often be over complicated. 
+#### *Failure and mistakes are inevitable - accept it, embrace it, and learn through it. - Mattithyahu* 
+#### *I single handedly believe the person that will go far in life and improve continuously is that person that is dedicated to learning everyday  - Mattithyahu* 
 
 <img src="images/books.jpg"/>
 
 <br>
 <br>
 
-Learning means different things to different people, to some it means practising and doing, to others studying, and some observing and watching. To each his own... 
+Learning means different things to different people, to some it means practising and doing, to others studying, and some observing and watching. To each his own, we all learn  in our own ways. 
 
-WHY WE MUST CONTINUE LEARNING
-THE BENEFITS OF LEARNING 
+To me learning is just a review process, taking stock of the past and looking to the future to improve even if its just by a small amount. 
+
+My definition of learning: 
+
+A review process where you aim to do and be better than you were before. 
+*Notice I said better than you were before and not *yesterday*, usually we can't put an arbitry time value on when we will improve but it however happens over some time. 
+
+My #1 key to learning: 
+
+1. Know that you must learn. 
+You must first know you need to learn, to learn. If a person feels there is nothing to learn that will likely make then unresponsive to learning....? 
+
+**Learning** can be applied to:
+*   Sports
+*   Finance
+*   Family
+*   Fitness
+*   Work
+*   Parenting
+*   Anything, you name it! 
 
 
-RIDING CHART>  PICTURE! 
+Learning is applicable in all we do as humans and thus is a key part of our life experience. As a child learns to take its first steps we must continue that same attitude to learn continuously. 
+
+I perosnally think life is zero sum. Particular to this topic meaning if you are not learning and therefore progressing then you are receeding. I will give a few examples below to further explain this. 
+
+Some examples of things that
+
+Sports: If you are not getting stronger, you are getting weaker
+ the same way you are alwasy getting older and not younger... just a thought. 
 
 
 
-We all learn diffferently???
+In summary, **learning** is important. It is a key part of growth and progression. Learning keeps you up-to-date and even ahead of the curve..
 
 
-Firstly, *what is data?*. A good way to understand something is to look at the origin, when did 'data' come into existence? 
-Data is essentially the information of things, from your name and height, to remembering a person’s birthday.  
- 
-Data is prevalent in our everyday lives, and it always has been. Since the turn of the century its place in society has been valued more as knowledge and information has grown exponentially.
 
-Secondly, *what is science?*. Science is the study of things. The Science council defines science as "the pursuit and application of knowledge and understanding of the natural and social world following a systematic methodology based on evidence." At the foundation of this pursuit and application of knowledge is information, i.e., data. 
 
-In summary, **data science** is any information that can be measured and quantified, and later researched for greater understanding. Data plays a big part in our everyday lives, it has been the unseen back bone of our society, it's what records how much you have in your bank account, stores your phone contacts, keeps your email receipts, stores your shopping list in any form (digital / paper / memory), remembers where you need to go etc. Data is very important and the science of it is ever growing. 
 
 ## Questions | Contact me 
 Thanks for reading.
