@@ -1,8 +1,8 @@
 ## **Learning and Development**
 ### How does one get better?... Learning. 
 
-#### *Failure and mistakes are inevitable - accept it, embrace it, and learn through it. - Mattithyahu* 
-#### *I whole heartedly believe the person that will go far in life and improve continuously is the person that is dedicated to learning everyday - Mattithyahu* 
+#### *"Failure and mistakes are inevitable - accept it, embrace it, and learn through it." - Mattithyahu* 
+#### *"I whole heartedly believe the person that will go far in life and improve continuously is the person that is dedicated to learning everyday." - Mattithyahu* 
 
 <img src="images/books.jpg"/>
 
@@ -20,7 +20,7 @@ A review process where you aim to do and be better than you were before.
 
 My #1 key to learning: 
 
-1. Know that you must learn. 
+*   Know that you must learn. 
 You must first know that you need to learn, to learn. Understanding that there is room for improvement and development in all you do will keep you open-minded to learning. 
 
 **Learning** can be applied to:
